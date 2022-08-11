@@ -1,0 +1,3 @@
+Mobile/Browser  Request     -> Presentation Layer(Controllers) -> Services Layer -> DAO/Repository Layer 
+																							|
+				Response	<-				<-			<-			<-			<-		  <-
